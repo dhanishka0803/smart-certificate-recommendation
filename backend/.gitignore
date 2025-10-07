@@ -1,0 +1,9 @@
+.vscode/
+*.json
+*.formula
+*.log
+*.dat
+*.db
+__pycache__/
+*.pyc
+.env
